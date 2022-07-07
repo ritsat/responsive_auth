@@ -17,3 +17,8 @@ This project shows how to build responsive login, sign up, forgot password scree
 Watch below [Youtube](https://www.youtube.com/watch?v=ftpguzXvgys) video for detail code walkthrough,
 
 [![Responsive UI](https://img.youtube.com/vi/ftpguzXvgys/0.jpg)](https://www.youtube.com/watch?v=ftpguzXvgys)
+
+
+Images from : 
+https://www.flaticon.com/
+https://www.freepik.com/
